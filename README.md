@@ -1,1 +1,1 @@
-# mafia-management
+# Mafia management
